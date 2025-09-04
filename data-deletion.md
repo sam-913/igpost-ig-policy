@@ -1,6 +1,18 @@
+---
+title: Data Deletion
+permalink: /data-deletion
+---
+
 # Data Deletion Instructions
 
 To delete your data:
-1) Revoke App permissions in your Facebook/Instagram account settings.  
-2) Email your.email@example.com with subject “Data Deletion Request for IGpost-IG”.  
-We will delete stored tokens and related metadata from our systems within 30 days.
+
+1. **In-app:** Use “Disconnect Accounts” → confirms token revocation and removes stored IDs.
+2. **Email:** Send a request to **youremail@example.com** using the subject “Data Deletion – Your App Name”.
+
+We will:
+- Revoke access tokens,
+- Remove linked identifiers and logs associated with your account (within 7–14 days),
+- Confirm deletion via email.
+
+If your accounts are managed via Instagram/Pinterest settings, you can also revoke access directly in those platforms’ “Apps and Websites” pages.
