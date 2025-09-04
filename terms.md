@@ -5,9 +5,9 @@ permalink: /terms
 
 # Terms of Service
 
-**App name:** Your App Name  
-**Owner/Developer:** Your Name / Organization  
-**Contact:** youremail@example.com  
+**App name:** IGpost  
+**Owner/Developer:** sam_913
+
 _Last updated: 04 September 2025_
 
 By using this app, you agree to:
