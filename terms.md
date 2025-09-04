@@ -5,8 +5,9 @@ permalink: /terms
 
 # Terms of Service
 
-**App name:** IGpost  
+**App name:** IGpost
 **Owner/Developer:** sam_913
+**Contact:** 21052274@kiit.ac.in
 
 _Last updated: 04 September 2025_
 
@@ -19,4 +20,4 @@ By using this app, you agree to:
 5. You retain rights to your content. You grant us a limited license to process it solely to provide the service.
 
 **Governing law:** Specify jurisdiction (e.g., **India**).  
-**Contact:** youremail@example.com
+**Contact:**  21052274@kiit.ac.in
