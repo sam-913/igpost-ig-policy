@@ -5,8 +5,9 @@ permalink: /privacy-policy
 
 # Privacy Policy
 
-**App name:** IGpost  
+**App name:** IGpost
 **Owner/Developer:** sam_913
+**Contact:** 21052274@kiit.ac.in
 
 _Last updated: 04 September 2025_
 
@@ -37,7 +38,7 @@ We share data only with:
 - You can request deletion at any time (see **Data Deletion** below).
 
 ## Your rights
-You may access, correct, export, or delete your data by contacting **youremail@example.com** or using in-app controls where available.
+You may access, correct, export, or delete your data by contacting **21052274@kiit.ac.in** or using in-app controls where available.
 
 ## Children
 This service is not intended for users under 13 (or the age required by your jurisdiction). We do not knowingly collect such data.
@@ -46,4 +47,4 @@ This service is not intended for users under 13 (or the age required by your jur
 We’ll update this policy as needed. Material changes will be posted here with a new “Last updated” date.
 
 ## Contact
-Questions? **youremail@example.com**
+Questions? **21052274@kiit.ac.in**
