@@ -8,7 +8,6 @@ permalink: /data-deletion
 To delete your data:
 
 1. **In-app:** Use “Disconnect Accounts” → confirms token revocation and removes stored IDs.
-2. **Email:** Send a request to **youremail@example.com** using the subject “Data Deletion – Your App Name”.
 
 We will:
 - Revoke access tokens,
